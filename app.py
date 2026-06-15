@@ -1,5 +1,5 @@
 from flask import Flask, render_template, request, redirect, url_for, session, flash, send_from_directory, jsonify
-from flask_mysqldb import MySQL
+from flask_mysqldb import PyMySQL
 from functools import wraps
 import hashlib, os, random, string
 from datetime import datetime, date, timedelta
