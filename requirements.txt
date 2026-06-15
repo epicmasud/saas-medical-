@@ -1,0 +1,7 @@
+flask
+streamlit
+uvicorn
+starlette
+requests
+pandas
+numpy
