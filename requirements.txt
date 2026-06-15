@@ -6,3 +6,4 @@ starlette
 requests
 pandas
 numpy
+pymysql
