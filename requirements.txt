@@ -1,4 +1,5 @@
 flask
+flask-mysqldb
 streamlit
 uvicorn
 starlette
